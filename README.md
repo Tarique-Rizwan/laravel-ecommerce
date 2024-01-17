@@ -1,46 +1,40 @@
-# Laravel E-commerce Website
+# Laravel E-commerce Application
 E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <br>
 
 > If you want to see every single step how this E-commerce application is build and learn how to build your own Full Stack applications, check my website [thecodeholic.com](https://thecodeholic.com)
 
-## Demo
-Admin Panel: https://admin.lcommerce.net
-```
-Email: admin@example.com
-Password: admin123
-```
+# Screenshots
 
-Website: https://lcommerce.net
+- **Home**
 
-```
-Email: user1@example.com
-Password: useruser1
+![home](https://github.com/Tarique-Rizwan/laravel-ecommerce/assets/111663110/4678715b-1055-4669-8ea0-7d35bf63d52f)
 
 
-Email: user2@example.com
-Password: useruser2
-```
+- **Cart**
 
-## Installation 
-Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node.js and composer.
+![cart](https://github.com/Tarique-Rizwan/laravel-ecommerce/assets/111663110/b31101cb-0bb0-499e-8829-6b02118d3fe9)
 
-### Install Laravel Website + API
-1. Download the project (or clone using GIT)
-2. Copy `.env.example` into `.env` and configure database credentials
-3. Navigate to the project's root directory using terminal
-4. Run `composer install`
-5. Set the encryption key by executing `php artisan key:generate --ansi`
-6. Run migrations `php artisan migrate --seed`
-7. Start local server by executing `php artisan serve`
-8. Open new terminal and navigate to the project root directory
-9. Run `npm install`
-10. Run `npm run dev` to start vite server for Laravel frontend
 
-### Install Vue.js Admin Panel
-1. Navigate to `backend` folder
-2. Run `npm install`
-3. Copy `backend/.env.example` into `backend/.env`
-4. Make sure `VITE_API_BASE_URL` key in `backend/.env` is set to your Laravel API host (Default: http://localhost:8000)
+- **Checkout**
+
+![checkout](https://github.com/Tarique-Rizwan/laravel-ecommerce/assets/111663110/01b5d38c-4277-44ad-9688-38b9794159f5)
+
+
+- **Register**
+
+![register](https://github.com/Tarique-Rizwan/laravel-ecommerce/assets/111663110/73550d30-d083-4b79-a654-77b3d97f9e65)
+
+
+- **Login**
+
+![login](https://github.com/Tarique-Rizwan/laravel-ecommerce/assets/111663110/556bb31d-bbda-4f42-8cac-91cde342a76b)
+
+
+- **Admin**
+
+![admin](https://github.com/Tarique-Rizwan/laravel-ecommerce/assets/111663110/3b3db235-189a-45cd-abc3-52ecca32d8c6)
+
+
 5. Run `npm run dev`
 6. Open Vue.js Admin Panel in browser and login with
     ```
