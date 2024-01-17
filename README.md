@@ -1,8 +1,6 @@
 # Laravel E-commerce Application
 E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <br>
 
-> If you want to see every single step how this E-commerce application is build and learn how to build your own Full Stack applications, check my website [thecodeholic.com](https://thecodeholic.com)
-
 # Screenshots
 
 - **Home**
@@ -34,10 +32,3 @@ E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <
 
 ![admin](https://github.com/Tarique-Rizwan/laravel-ecommerce/assets/111663110/3b3db235-189a-45cd-abc3-52ecca32d8c6)
 
-
-5. Run `npm run dev`
-6. Open Vue.js Admin Panel in browser and login with
-    ```
-    admin@example.com
-    admin123
-    ```
